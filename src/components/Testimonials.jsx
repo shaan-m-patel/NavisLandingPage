@@ -9,9 +9,9 @@ const Testimonials = () => {
 
     const testimonials = [
         {
-            quote: "At Nestig, I envisioned a tool that understood context, organized queries, and suggested smart responses. Navis delivers that and more making customer interactions effortless.",
-            author: "Kayli Sweeney",
-            role: "Senior Customer Experience Associate at Nestig",
+            quote: "At Oval, I envisioned a tool that understood context, organized queries, and suggested smart responses. Navis delivers that and more making customer interactions effortless.",
+            author: "Jess Zed",
+            role: "Senior Customer Experience Associate at Oval",
             result: "40% faster resolution"
         },
         {
